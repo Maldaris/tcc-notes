@@ -28,7 +28,7 @@
   -  binds to container scope, works with nested classes
 
 ### Template Literals
-  - uses backticks & JSP syntax for variable accessors.
+  - uses backticks &amp; JSP syntax for variable accessors.
 
 ### Spread Operator
   - replaces `.apply(array)`
@@ -70,7 +70,7 @@ var [year1, year2, year3] = amounts;
   - Right wins the  doubly defined assignment case
   - arg0 is the resultant
 
-### Iterators & Generators
+### Iterators &amp; Generators
   - defined by `function* foo` or `function *foo`
   - Returns an iterator.
   - uses `yield` keyword with argument to return a value
